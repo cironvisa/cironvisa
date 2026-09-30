@@ -6,4 +6,4 @@ I am a master student at Imperial studying Statistics. I know quite a boring int
 I'm trying to think of what else I can tell you but there's honestly nothing much (or nothing I am willing to share with a computer). I like reading books, I want to try new things maybe Kendo or boxing, I don't know.
 
 ## Week 1
-The schedule for ths week is: https://docs.google.com/spreadsheets/d/1eCedjTyT5HgUscbeAT1Zq4LxlKEYYMaiVwb53kNIQC8/edit?gid=383228050#gid=383228050
+My first week schedule is [here](https://docs.google.com/spreadsheets/d/1eCedjTyT5HgUscbeAT1Zq4LxlKEYYMaiVwb53kNIQC8/edit?gid=383228050#gid=383228050)
