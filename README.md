@@ -19,4 +19,4 @@ Open to graduate opportunities in data science, analytics, machine learning and 
 My study schedule can be found by the following link [here](https://docs.google.com/spreadsheets/d/1eCedjTyT5HgUscbeAT1Zq4LxlKEYYMaiVwb53kNIQC8/edit?gid=383228050#gid=383228050)
 
 ## Past Education
-I studied BSc Mathematics at King's College London (KCL)
+I studied BSc Mathematics at King's College London (KCL) and received a first class
